@@ -1,0 +1,43 @@
+{
+  "timestamp": 12891892388349,
+  "transaction": {
+    "disbursement_date": "2022-04-05",
+    "disbursed_amount": 200000,
+    "repayment_start_date": "2022-07-19",
+    "repayment_end_date": "2022-07-28",
+    "interest_rate": 10
+  },
+  "user": {
+    "type_of_id": "passport",
+    "user_id": "olok",
+    "marital_status": "single",
+    "number_of_children": 5,
+    "business_daily_income": 58,
+    "years_in_business": 26,
+    "guarantor_type_of_id": "license",
+    "guarantor_monthly_income": "345",
+    "guarantor_years_in_business": 67,
+    "employment_length": 23,
+    "monthly_income": 2344
+  },
+  "payment_method": {
+    "method_type": "card",
+    "bank_account": "0936765i",
+    "account_holder": "brume",
+    "bank_name": "gtb"
+  },
+  "device": {
+    "manufacturer": "samsung",
+    "device_type": "samsung",
+    "os": "android",
+    "device_model": "samsung",
+    "user_agent": "est",
+    "ip_address": "127.0.0.1",
+    "device_id": "123"
+  },
+  "address": {
+    "city": "lagos",
+    "street": "flic en flac",
+    "country": "nigeria"
+  }
+}
